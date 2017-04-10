@@ -15,7 +15,8 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.ameer.android.androidMapAmeerCW.utils.SingleFragmentActivity;
-
+//main activity - code resused from the following:
+//https://github.com/IndoorAtlas
 public class IndoorMapActivity extends SingleFragmentActivity {
 
   private static final String TAG = "IndoorMap";
