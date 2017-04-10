@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        revision="25.0.2"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/firebase-client-android-2.4.0-2a830b0cba98a68b4d28f1bae2144431343adbfe.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/8d8e3e312f5e36fb44c28f3b27f06b16e7b87f74/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b6b787ce9595b8948e2457d2a20166615a00e946">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ff8eff2b46beeecd280d025a206bf9dfecc2af03.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/28f8087eafce62f83a7e380db32d5fa9cc926ad1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-34867b334d6bc80b3ea950c29ad8bbcfc1ccf539.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/2bfbf50d52537704a4812964337e3a672275a8b6/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e2a68029478449f6e3fdd0af8d5435f04294a5ae.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-databind-2.2.2-e3ad82a43aaacf8d635d7c736bd2108c82fc32c6.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        revision="25.0.2"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/firebase-client-jvm-2.4.0-23084effd77b98f27e6fe2d06f5e18349c30bf42.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/53524addd1ce1c94f73d2ab17bed487c9859de96/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0cf00c6f8ad38c09fc1ebc11b212b05a05cedc16.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/cecc9a8260389937217a39b2ce383e66e871b909/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-23c58575dca12c68072e60cc6c8c2275157cf8f6.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-58a82c4a6c975b82ecd31f787bf26f1973c432e4.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/caadd1748c92cd6be9ce0fd866f954624193f787/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-09999d330d74662deace231faaf3f4c66049a8e0.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/5d59085197624f6b0eb3a574102d23af29817dbb/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0358ddcba7478bc95f1afef56d7637e304b3143c.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/975832aada4f698282bdb4dc6711004f7a969aa6/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6f6346410e79ee095233b88347b6338747cd5025.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-fc4646fd63cb5242e9834ba252930ffdfbfa3af4.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/1db89e9dcdaa4bd0fde24aa6ad33a4b2f11ecc25/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e5b0ae02be1792be07e979e693f91d0075bab125.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/c490ec17ce76320cd46470fda3e0a757bdcbd248/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e712bfe0e6e8223279bffa2dd54cc4666579dc44.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/dc3e2c930a9ff084abefe10e082216e6d6834e51/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a5c0cda6c78cf2dd7f0c46b38b3dccdcef305f1b.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/f45f18cdc47ee74285c38dba9ff74a039cc7beda/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="65ea07d242b63a2317fe0de4401cef87ca490991">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-30e3c8ac981ecf673653dbfd205172a5e3767e1e.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-annotations-2.2.2-743765ce0d04e78aadb02f02456d64a385c73816.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/b50c66bd0e4640c6ccac68e5d1d2482ccb0e81b3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="c1042794536fb77bad04286c11080632195ca4b9">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e630086d482bbf940ce96875971fa80f8c7aa95e.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-26.0.0-alpha1-dba21eb35ff0f4619b3806ac5eb3f4697d9dd0cc.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/84383d79bb7d7301734cccd80336c1e24e8ba3fd/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-83e64c5174ab6f4b9b4abd829d5f015d3788eb60.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/bc860876e0d0ff084308cca200d907d3a4bec92a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-11959387dd0ea5934e59ee8283ffa0e6e8364014.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/bce85c351d7030ba2184af1a1f2da41926dfb4f1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e64b3061e469068d2d1843eaf4d0e26ca81ccb27.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/87a8ec2d7f03649751ecd130fe98e32c475c8ef6/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ff0cca1140f0879d7f2625717a47b53ab948c53e.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/tubesock-0.0.12-b43dd1ee0a1ebafa6da06ca81a1fb0b06c0b94b7.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-core-2.2.2-77738dfa8a65bc435f4a10aa1a84c627e8b9b11c.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/de500433b9ce5d32ee0e3f562b2067e69752a92e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b4e97fd8c6d18c07e8ab85ec7f974336678e2ad8.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/b30c99527f59cc1f73d2e6ae53b73ad73926edb2/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-faf816c7cf748ac91e39f19a68158f9e882af2a5.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/2a45cecfcaa41c9a478e94ff6aebd09f3fe1cd72/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cb21e5d0d571fab2f4bc1ebf63da9b11bb0bc286.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/e95b36028e89a26659738eecb58f19fafc7980d3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a7f4727e3f34d20865642661764d918a7bd3ea78.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/e2178c5767815fa466a5e390ab52cba079f077f1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4d6f73891dabe55f409ea407d1a5c2d870368216.jar" />
+    </item>
+    <item
+        jar="/Users/MrMrsAmeerMac/.android/build-cache/a6a26266871950ecbe2a5428da460fe02925bdb2/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/MrMrsAmeerMac/AndroidStudioProjects/androidMapAmeerCW/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3f3858da6859d86a689299d84a266d768779f57c.jar" />
+    </item>
+
+</items>
