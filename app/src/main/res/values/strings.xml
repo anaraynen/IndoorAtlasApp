@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">IndoorMap</string>
+  <string name="start_loc_log">Start Location logging</string>
+  <string name="stop_loc_log">Stop Location logging</string>
+  <string name="loc_text">Your Location</string>
+  <string name="interesting_location">BBK Ext. Bldg, Floor 1, door to Stair D</string>
+  <string name="location_perm_req_title">Permission needed</string>
+  <string name="location_perm_req_message">Access to coarse location is required for a better experience</string>
+  <string name="button_accept">Accept</string>
+  <string name="button_deny">Deny</string>
+  <string name="location_perm_denied_message">Coarse location permission was denied, performance will be affected</string>
+</resources>
